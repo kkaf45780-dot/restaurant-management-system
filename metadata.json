@@ -1,0 +1,6 @@
+{
+  "name": "موظف المطعم - مساعد المطاعم الذكي",
+  "description": "نظام موظف استقبال ذكي للمطاعم لإدارة المنيو واستقبال طلبات العملاء عبر المحادثة وإرسالها إلى واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
